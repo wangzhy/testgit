@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface VRAppDelegate : UIResponder <UIApplicationDelegate>
-//wang.zhy
+//wang.zhysss
 @property (strong, nonatomic) UIWindow *window;
 
 @end
